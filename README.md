@@ -4,7 +4,7 @@ Portal da Transparência é uma iniciativa das universidades para tornar acessí
 
 Neste trabalho, serão analisados os dados do Portal da Transparência. São opçōes de portais disponíveis: Universidade de São Paulo (USP), Universidade Estadual Paulista (UNESP) e Universidade Estadual de Campinas (UNICAMP).
 
-# Description of the folders
+# Descrição das Pastas
 
 - `Dataset:` it contains images in extension .jpg with 6000x6000 pixels for the 4 areas of the Campinas, São Paulo, Brazil. 
 - `Pool Detection:` it contains scripts for the pool detection
