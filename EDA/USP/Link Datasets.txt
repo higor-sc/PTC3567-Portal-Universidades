@@ -1,0 +1,5 @@
+Os datasets de 2014 a 2022 podem ser baixados através do link a seguir:
+
+- base_tratada.csv: https://drive.google.com/file/d/1SPL2eH6n-hZs9oFpXYsmVaeFPVESq0Qj/view?usp=share_link
+- base_total.csv: https://drive.google.com/file/d/1mTZo7vnXxzVAoTqGmRPIXT6sUSzNCycd/view?usp=share_link
+- Pasta Datasets: https://drive.google.com/drive/folders/1-ZRT-5-OCpVkJ9ObwgQnsWdna3jFBG9i?usp=share_link
