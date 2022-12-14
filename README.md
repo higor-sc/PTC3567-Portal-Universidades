@@ -6,8 +6,5 @@ Neste trabalho, serão analisados os dados do Portal da Transparência. São op�
 
 # Descrição das Pastas
 
-- `Dataset:` it contains images in extension .jpg with 6000x6000 pixels for the 4 areas of the Campinas, São Paulo, Brazil. 
-- `Pool Detection:` it contains scripts for the pool detection
-- `Water Tank Detection:` it contains scripts for the water tank detection
-- `Utils:` it contais useful scripts for this work
-- `aux_images:` it contains images for README
+- `EDA:` contém scripts e os datasets utilizados na etapa de Exploratory Data Analysis 
+- `Hipóteses:` contém scripts que respondem as hipóteses
