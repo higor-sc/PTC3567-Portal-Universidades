@@ -6,8 +6,8 @@ Neste trabalho, serão analisados os dados do Portal da Transparência. São op�
 
 Diante dos dados disponibilizados das três instituições públicas, levantaram-se as seguintes hipóteses que nortearam este trabalho:
 
-- 'H1:' É possível estimar o salário dos funcionários da \textbf{UNESP} para prever o orçamento governamental necessário para a folha de pagamento da universidade?
-- 'H2:' Professores da USP possuem o salário maior quando comparados com UNESP e UNICAMP?
+- `H1:` É possível estimar o salário dos funcionários da \textbf{UNESP} para prever o orçamento governamental necessário para a folha de pagamento da universidade?
+- `H2:` Professores da USP possuem o salário maior quando comparados com UNESP e UNICAMP?
 
 # Descrição das Pastas
 
